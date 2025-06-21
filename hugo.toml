@@ -78,9 +78,9 @@ googleAnalytics = "G-YHJYSJ7YD7"
     weight = 3
 
   [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
+    identifier = "Contract"
+    name = "Contract"
+    url = "/Contract/"
     weight = 4
 
   # Footer Menu
